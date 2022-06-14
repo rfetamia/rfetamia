@@ -17,7 +17,7 @@
 - 👯 I’m looking to collaborate with a mentor  
   
 
-- 🤔 I’m looking for help with: Large NLP projects  
+- 🤔 I’m looking for help with: Data Engineering Projects  
   
 
 - ⚡ Fun fact: I've seen over 2000 movies  
@@ -29,7 +29,6 @@
 ## My Skill Set  
 <p align="center">
  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat-square" alt="Python Badge">
- <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=fff&style=flat-square" alt="Java Badge">
  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff&style=flat-square" alt="PostgreSQL Badge">
  <img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?logo=amazonaws&logoColor=fff&style=flat-square" alt="Amazon AWS Badge">
  <img src="https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=fff&style=flat-square" alt="pandas Badge">
