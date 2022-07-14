@@ -8,10 +8,10 @@
 ### <div align="center">On the journey to becoming a Software Engineer 👨‍💻 🚀 </div>  
   
 
-- 🔭 I’m currently working on Extensive Scientific Calculator WebApp
+- 🔭 I’m currently working on podcast transcript generator with some NLP analytics
   
 
-- 🌱 I’m currently learning Django and Algorithms
+- 🌱 I’m currently learning Flask, Scrapy, and spaCy
   
 
 - 👯 I’m looking to collaborate with a mentor  
