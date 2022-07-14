@@ -29,7 +29,7 @@
 ## My Skill Set  
 <p align="center">
  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat-square" alt="Python Badge">
- <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=fff&style=flat-square" alt="Django Badge">
+ <img src="https://img.shields.io/badge/Flask-000?logo=flask&logoColor=fff&style=flat-square" alt="Flask Badge">
  <img src="https://img.shields.io/badge/Pytest-0A9EDC?logo=pytest&logoColor=fff&style=flat-square" alt="Pytest Badge">
  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff&style=flat-square" alt="PostgreSQL Badge">
  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?logo=googlecloud&logoColor=fff&style=flat-square" alt="Google Cloud Badge">
@@ -37,7 +37,8 @@
  <img src="https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=fff&style=flat-square" alt="pandas Badge">
  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=fff&style=flat-square" alt="Streamlit Badge"> 
  <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?logo=apacheairflow&logoColor=fff&style=flat-square" alt="Apache Airflow Badge">
- <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?logo=apachespark&logoColor=fff&style=flat-square" alt="Apache Spark Badge"> 
+ <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?logo=apachespark&logoColor=fff&style=flat-square" alt="Apache Spark Badge">
+ <img src="https://img.shields.io/badge/spaCy-09A3D5?logo=spacy&logoColor=fff&style=flat-square" alt="spaCy Badge">
 </p>
 <br/>  
 
