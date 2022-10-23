@@ -5,13 +5,13 @@
 </div>  
   
 
-### <div align="center">On the journey to becoming a Software Engineer 👨‍💻 🚀 </div>  
+### <div align="center">On the journey to becoming a Data Analyst 👨‍💻 🚀 </div>  
   
 
-- 🔭 I’m currently working on podcast transcript generator with some NLP analytics
+- 🔭 I’m currently working on Kaggle backlog
   
 
-- 🌱 I’m currently learning Flask, Scrapy, and spaCy
+- 🌱 I’m currently learning pyomo, scikit-learn, and sktime
   
 
 - 👯 I’m looking to collaborate with a mentor  
@@ -29,10 +29,10 @@
 ## My Skill Set  
 <p align="center">
  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat-square" alt="Python Badge">
- <img src="https://img.shields.io/badge/Flask-000?logo=flask&logoColor=fff&style=flat-square" alt="Flask Badge">
- <img src="https://img.shields.io/badge/Pytest-0A9EDC?logo=pytest&logoColor=fff&style=flat-square" alt="Pytest Badge">
- <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff&style=flat-square" alt="PostgreSQL Badge">
- <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?logo=googlecloud&logoColor=fff&style=flat-square" alt="Google Cloud Badge">
+ <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?logo=microsoftexcel&logoColor=fff&style=flat-square" alt="Excel Badge">
+ <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=fff&style=flat-square" alt="SQL Server">
+ <img src="https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=fff&style=flat-square" alt="Tableau Badge">
+ <img src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=fff&style=flat-square" alt="scikit-learn Badge">
  <img src="https://img.shields.io/badge/SciPy-8CAAE6?logo=scipy&logoColor=fff&style=flat-square" alt="SciPy Badge">
  <img src="https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=fff&style=flat-square" alt="pandas Badge">
  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=fff&style=flat-square" alt="Streamlit Badge"> 
