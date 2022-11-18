@@ -5,13 +5,13 @@
 </div>  
   
 
-### <div align="center">On the journey to becoming a Data Analyst 👨‍💻 🚀 </div>  
+### <div align="center">On the journey to becoming a Something 👨‍💻 🚀 </div>  
   
 
-- 🔭 I’m currently working on Kaggle backlog
+- 🔭 I’m currently working on Personal Private Projects
   
 
-- 🌱 I’m currently learning pyomo, scikit-learn, and sktime
+- 🌱 I’m currently learning Salesforce administration and development
   
 
 - 👯 I’m looking to collaborate with a mentor  
