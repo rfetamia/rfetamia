@@ -8,10 +8,10 @@
 ### <div align="center">On the journey to becoming a Something 👨‍💻 🚀 </div>  
   
 
-- 🔭 I’m currently working on Personal Private Projects
+- 🔭 I’m currently working on OR-Tools GUI project
   
 
-- 🌱 I’m currently learning Salesforce administration and development
+- 🌱 I’m currently learning OR-Tools and TTkinter
   
 
 - 👯 I’m looking to collaborate with a mentor  
