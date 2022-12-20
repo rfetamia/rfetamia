@@ -5,20 +5,16 @@
 </div>  
   
 
-### <div align="center">On the journey to becoming a Something 👨‍💻 🚀 </div>  
+### <div align="center">On the journey to becoming a something 👨‍💻 🚀 </div>  
   
 
-- 🔭 I’m currently working on OR-Tools GUI project
+- 🔭 You can find articles and projects I've made public on <a href="https://rfetamia.github.io/" target="_blank">my personal site</a> or my <a href="https://www.kaggle.com/rfetamia" target="_blank">Kaggle</a>
   
-
-- 🌱 I’m currently learning OR-Tools and TTkinter
+- 🌱 I’m currently learning OR-Tools and TTkinter and working on an OR-Tools GUI Project
   
-
 - 👯 I’m looking to collaborate with a mentor  
-  
-
+ 
 - 🤔 I’m looking for help with: contributing to open source
-  
 
 - ⚡ Fun fact: I've seen over 2000 movies  
   
