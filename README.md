@@ -10,7 +10,7 @@
 
 - 🔭 You can find articles and projects I've made public on <a href="https://rfetamia.github.io/" target="_blank">my personal site</a> or my <a href="https://www.kaggle.com/rfetamia" target="_blank">Kaggle</a>
   
-- 🌱 I’m currently learning OR-Tools and TTkinter and working on an OR-Tools GUI Project
+- 🌱 I’m currently learning data engineering
   
 - 👯 I’m looking to collaborate with a mentor  
  
